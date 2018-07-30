@@ -1,3 +1,7 @@
+
+A responsive todo-List made using ReactJS. Made use concepts like of props, state and ref for input form, keys and list. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
